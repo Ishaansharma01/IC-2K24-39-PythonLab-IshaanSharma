@@ -66,15 +66,6 @@ RollNo-PythonLab-YourName/
 * Analysis of Nested Loops
 * Analysis of Recursive Algorithms
 
-## Complexity Analysis Summary
-
-| Snippet | Problem              | Time Complexity | Space Complexity |
-| ------: | -------------------- | --------------- | ---------------- |
-|       1 | Find Maximum Element | `O(n)`          | `O(1)`           |
-|       2 | Check for Duplicates | `O(n²)`         | `O(1)`           |
-|      12 | Factorial            | `O(n)`          | `O(n)`           |
-|      13 | Fibonacci            | `O(2^n)`        | `O(n)`           |
-
 ## Tools & Technologies
 
 * **Language:** Python
