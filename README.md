@@ -9,7 +9,9 @@
 
 ## About the Repository
 
-This repository contains the Python programs and practical work completed as part of the Python Lab course. It includes programs covering basic Python concepts, input/output, variables, data types, operators, string manipulation, and other programming fundamentals.
+This repository contains the Python programs, practical assignments, and lab activities completed as part of the **Python Lab** course.
+
+The repository covers fundamental Python programming concepts, including variables, data types, input/output, operators, strings, functions, recursion, and algorithm complexity analysis.
 
 ## Repository Structure
 
@@ -26,18 +28,52 @@ RollNo-PythonLab-YourName/
 │   ├── calculator.py
 │   └── README.md
 │
+├── Lab3/
+│   └── Ishaan Sharma Python_LAB3.docx
+│   └── Ishaan Sharma Python_LAB3.pdf
+│   └── README.md
+│
 └── README.md
 ```
 
+> **Note:** Add or remove lab/activity folders as new practicals are completed.
+
 ## Topics Covered
+
+### Python Fundamentals
 
 * Variables and Data Types
 * User Input and Output
 * Arithmetic Operations
+* Operators
 * Type Conversion
 * String Manipulation
 * Escape Sequences
-* Basic Python Programming
+
+### Functions and Recursion
+
+* User-Defined Functions
+* Recursive Functions
+* Factorial
+* Fibonacci Series
+
+### Algorithm Analysis
+
+* Time Complexity
+* Space Complexity
+* Big-O Notation
+* Analysis of Loops
+* Analysis of Nested Loops
+* Analysis of Recursive Algorithms
+
+## Complexity Analysis Summary
+
+| Snippet | Problem              | Time Complexity | Space Complexity |
+| ------: | -------------------- | --------------- | ---------------- |
+|       1 | Find Maximum Element | `O(n)`          | `O(1)`           |
+|       2 | Check for Duplicates | `O(n²)`         | `O(1)`           |
+|      12 | Factorial            | `O(n)`          | `O(n)`           |
+|      13 | Fibonacci            | `O(2^n)`        | `O(n)`           |
 
 ## Tools & Technologies
 
