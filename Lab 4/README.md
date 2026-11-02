@@ -2,7 +2,7 @@
 # Python Lab — Lab 4: Dictionary
 
 **Subject:** Python Programming Lab  
-**Lab:** 4  
+**Lab:** 5  
 **Topic:** Python Dictionaries  
 **Author:** Ishaan Sharma
 
