@@ -16,7 +16,7 @@ The repository covers fundamental Python programming concepts, including variabl
 ## Repository Structure
 
 ```text
-RollNo-PythonLab-YourName/
+IC-2K24-39-PythonLab-IshaanSharma/
 │
 ├── Lab1/
 │   ├── variable_practice.py
@@ -27,6 +27,14 @@ RollNo-PythonLab-YourName/
 │   ├── escape_sequence.py
 │   ├── calculator.py
 │   └── README.md
+│ 
+├── Lab2/
+│   ├── Inverse_Triangle.py
+│   ├── Number_Pattern.py
+│   ├── Rhombus.py
+│   ├── Right_angle_triangle.py
+│   ├── Square.py
+│   ├── Triangle.py
 │
 ├── Lab3/
 │   └── Ishaan Sharma Python_LAB3.docx
