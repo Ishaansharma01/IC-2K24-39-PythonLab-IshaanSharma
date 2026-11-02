@@ -1,5 +1,5 @@
 
-# Python Lab — Lab 4: Dictionary
+# Python Lab — Lab 5: Dictionary
 
 **Subject:** Python Programming Lab  
 **Lab:** 5  
@@ -314,4 +314,4 @@ After completing this lab, students should be able to:
 
 **Author:** Ishaan Sharma  
 **Course:** Integrated MCA  
-**Lab Assignment:** Python Dictionaries — Lab 4
+**Lab Assignment:** Python Dictionaries — Lab 5
