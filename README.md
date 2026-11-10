@@ -56,3 +56,16 @@ IC-2K24-39-PythonLab-IshaanSharma/
 │   └── README.md
 │
 └── README.md
+```
+
+## Tools & Technologies
+
+* **Language:** Python
+* **Editor:** Visual Studio Code
+* **Version Control:** Git & GitHub
+
+## Author
+
+**Ishaan Sharma**  
+MCA (5 Years) | 5th Semester  
+Roll No.: **IC-2K24-39**
