@@ -44,35 +44,6 @@ IC-2K24-39-PythonLab-IshaanSharma/
 └── README.md
 ```
 
-> **Note:** Add or remove lab/activity folders as new practicals are completed.
-
-## Topics Covered
-
-### Python Fundamentals
-
-* Variables and Data Types
-* User Input and Output
-* Arithmetic Operations
-* Operators
-* Type Conversion
-* String Manipulation
-* Escape Sequences
-
-### Functions and Recursion
-
-* User-Defined Functions
-* Recursive Functions
-* Factorial
-* Fibonacci Series
-
-### Algorithm Analysis
-
-* Time Complexity
-* Space Complexity
-* Big-O Notation
-* Analysis of Loops
-* Analysis of Nested Loops
-* Analysis of Recursive Algorithms
 
 ## Tools & Technologies
 
