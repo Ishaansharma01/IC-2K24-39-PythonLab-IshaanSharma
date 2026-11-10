@@ -1,0 +1,9 @@
+Section A: Before You Start
+
+1. What do you think makes one piece of code faster than another that produces the same output?
+
+One piece of code is faster when it uses efficient algorithms, fewer unnecessary operations, and less memory to produce the same output in less time.
+
+2. Name any Python function or technique you already know that helps avoid repeating work.
+
+Functions in Python help avoid repeating work because we can write a block of code once and call it whenever needed.
