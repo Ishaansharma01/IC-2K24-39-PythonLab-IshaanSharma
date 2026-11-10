@@ -11,7 +11,7 @@
 
 This repository contains the Python programs, practical assignments, and lab activities completed as part of the **Python Lab** course.
 
-The repository covers fundamental Python programming concepts, including variables, data types, input/output, operators, strings, functions, recursion, and algorithm complexity analysis.
+The repository covers fundamental Python programming concepts, including variables, data types, input/output, operators, strings, functions, recursion, dictionaries, and algorithm complexity analysis.
 
 ## Repository Structure
 
@@ -27,32 +27,32 @@ IC-2K24-39-PythonLab-IshaanSharma/
 │   ├── escape_sequence.py
 │   ├── calculator.py
 │   └── README.md
-│ 
+│
 ├── Lab2/
 │   ├── Inverse_Triangle.py
 │   ├── Number_Pattern.py
 │   ├── Rhombus.py
 │   ├── Right_angle_triangle.py
 │   ├── Square.py
-│   ├── Triangle.py
+│   └── Triangle.py
 │
 ├── Lab3/
-│   └── Ishaan Sharma Python_LAB3.docx
-│   └── Ishaan Sharma Python_LAB3.pdf
+│   ├── Ishaan Sharma Python_LAB3.docx
+│   ├── Ishaan Sharma Python_LAB3.pdf
+│   └── README.md
+│
+├── Lab4/
+│   ├── README.md
+│   ├── Section A.txt
+│   ├── Section B.ipynb
+│   ├── Section C.ipynb
+│   ├── Section D.ipynb
+│   └── Section E.ipynb
+│
+├── Lab5/
+│   ├── Part A/
+│   ├── Part B/
+│   ├── Part C/
 │   └── README.md
 │
 └── README.md
-```
-
-
-## Tools & Technologies
-
-* **Language:** Python
-* **Editor:** Visual Studio Code
-* **Version Control:** Git & GitHub
-
-## Author
-
-**Ishaan Sharma**
-MCA (5 Years) | 5th Semester
-Roll No.: **IC-2K24-39**
